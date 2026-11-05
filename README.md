@@ -101,4 +101,4 @@ Calculations are checked with automated tests and against manual calculations on
 
 ## Author
 
-**Nathalia Macedo** — BSc in Computing, Dorset College Dublin
+**Nathalia Macedo** — BSc in Computing Science, Dorset College Dublin
